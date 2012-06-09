@@ -1,3 +1,7 @@
-= user_last_ip
+= Redmine last user ip plugin
 
-Description goes here
+Plugin track last user ip address and show it in user's page.
+
+== Install/Uninstall
+
+See: http://www.redmine.org/projects/redmine/wiki/Plugins
